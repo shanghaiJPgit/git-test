@@ -9,7 +9,9 @@
 #import "ViewController.h"
 
 @interface ViewController ()
-
+{
+    UIButton *btn;
+}
 @end
 
 @implementation ViewController
